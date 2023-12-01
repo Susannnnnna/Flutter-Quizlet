@@ -1,6 +1,7 @@
 # Quizlet
 ## About
 Simple quiz application where you can check your programming knowledge. 
+
 ![Application image - main page](./assets/gifs/quizlet.gif)
 
 ## Content
