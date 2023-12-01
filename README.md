@@ -1,16 +1,34 @@
-# quizlet
+![Application image - main page](./assets/gifs/quizlet.gif)
 
-A new Flutter project.
+# Quizlet
+## About
+Simple quiz application where you can check your programming knowledge. 
 
-## Getting Started
+## Content
+- [App examples](./README.md#app-examples)
+- [How to run the app?](./README.md#how-to-run-the-app)
+  - [Environment](./README.md#environment)
+  - [Used technologies](./README.md#used-technologies)
+  - [Run the app](./README.md#run-the-app)
+- [Note](./README.md#note)
 
-This project is a starting point for a Flutter application.
+## App examples
+Examples photos of use are in [folder](./assets/images)
 
-A few resources to get you started if this is your first Flutter project:
+## How to run the app?
+### Environment
+- Windows 11 Pro v22H2
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Used technologies
+- Android Studio
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Run the app
+Download files from github
+```
+git clone https://github.com/Susannnnnna/Flutter_Quizlet
+```
+Open application in Android Studio
+
+## Note
