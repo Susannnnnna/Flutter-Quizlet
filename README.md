@@ -20,7 +20,7 @@ Examples photos of use are in [folder](./assets/images)
 - Windows 11 Pro v22H2
 
 ### Used technologies
-- Android Studio
+- Android Studio (device: Nexus 6 API 34)
 - Flutter
 - Dart
 
