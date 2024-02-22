@@ -11,6 +11,7 @@ Simple quiz application where you can check your programming knowledge.
   - [Used technologies](./README.md#used-technologies)
   - [Run the app](./README.md#run-the-app)
 - [Note](./README.md#note)
+- [License](./README.md#license)
 
 ## App examples
 Examples photos of use are in [folder](./assets/images)
@@ -32,3 +33,6 @@ git clone https://github.com/Susannnnnna/Flutter_Quizlet
 Open application in Android Studio
 
 ## Note
+
+## License
+[MIT license](https://opensource.org/licenses/MIT)
