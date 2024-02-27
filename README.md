@@ -28,7 +28,7 @@ Examples photos of use are in [folder](./assets/images)
 ### Run the app
 Download files from github
 ```
-git clone https://github.com/Susannnnnna/Flutter_Quizlet
+git clone https://github.com/Susannnnnna/Flutter-Quizlet
 ```
 Open application in Android Studio
 
